@@ -1,23 +1,24 @@
-﻿task_1,task_2, consent_video_recording, consent_share_transcripts, entities_added
- A, B,y,y,
- B, A,y,y,
- A, B,y,n,
- A, B,y,y,
- B, A,y,y, paper / article manuscript
- B, A,y,y, dates | technologiecal provenance e.g. assembly
- A, B,y,y, eukaryotes | prokaryotes
- B, A,y,y, cell
- A, B,y,y, experiments / experimental data | models | molecule | structures | example of transcript
- B, A,y,y,
- A, B,y,y,
- B, A,y,y, tissue
- A, B,y,y, database| dataset | archive | DNA
- B, A,y,y, GO | ENSEMBL
- A, B,y,y,
- A, B,y,y,
- B, A,y,y,DNA | RNA
- B, A,y,y,evolution | species
- A, B,y,y,physical descriptions | database generic | database publishing | database protein | words | biology generic terms | biology describers
- B, A,y,y, interaction
- A, B,y,y,
- B, A,y,y,ISOFORM
+,task_1,task_2,consent_video_recording,consent_share_transcripts,entities_added
+Participant 1,A,B,y,y,
+Participant 2,B,A,y,y,
+Participant 3,A,B,y,n,
+Participant 4,A,B,y,y,
+Participant 5,B,A,y,y,paper / article manuscript
+Participant 6,B,A,y,y,dates | technologiecal provenance e.g. assembly
+Participant 7,A,B,y,y,eukaryotes | prokaryotes
+Participant 8,B,A,y,y,cell
+Participant 9,A,B,y,y,experiments / experimental data | models | molecule | structures | example of transcript
+Participant 10,B,A,y,y,
+Participant 11,A,B,y,y,
+Participant 12,B,A,y,y,tissue
+Participant 13,A,B,y,y,database| dataset | archive | DNA
+Participant 14,B,A,y,y,GO | ENSEMBL
+Participant 15,A,B,y,y,
+Participant 16,A,B,y,y,
+Participant 17,B,A,y,y,DNA | RNA
+Participant 18,B,A,y,y,evolution | species
+Participant 19,A,B,y,y,physical descriptions | database generic | database publishing | database protein | words | biology generic terms | biology describers
+Participant 20,B,A,y,y,interaction
+Participant 21,A,B,y,y,
+Participant 22,B,A,y,y,ISOFORM
+,11,11,,,

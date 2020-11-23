@@ -1,0 +1,23 @@
+﻿participant_id,homo_sapiens.gff|100287102,homo_sapiens.gff|HGNC:37102,homo_sapiens.gff|DDX11L1,flybase_d_melanogaster.gaf|FBgn0043467,flybase_d_melanogaster.gaf|GO:0048149,ncbi_homo_sapiens.gene_info|9606,ncbi_homo_sapiens.gene_info|1,ncbi_homo_sapiens.gene_info|A1BG,ncbi_homo_sapiens.gene_info|MIM:138670,ncbi_homo_sapiens.gene_info|HGNC:HGNC:5,ncbi_homo_sapiens.gene_info|Ensembl:ENSG00000121410,Notes,Used terms not in the card set for file mapping,Didn't match individual terms,Matched to terms not highlighted,Treated final three in gene_info file set as one single term
+1,identifier,gene|identifier,gene|name,gene|identifier,GO Term,organism,identifier,symbol,gene|dataset/database,,,,,,,
+2,identifier,dataset/database,name,identifier|label|dataset/database,GO Term,,,symbol,,,dataset/database|identifier,,,,,
+3,,,,,,,,,,,,task not recorded,,,,
+4,gene|identifier,gene|accession,identifier|name,accession|gene|identifier,GO Term,organism,gene|identifier,gene|symbol,N/A,gene|identifier,gene|identifier,,,,,
+5,identifier|symbol|organism,identifier|symbol|organism|gene|h. sapiens,identifier|symbol|organism|name,,GO Term,organism|h. sapiens|name|gene|organism|symbol|identifier,name|gene|organism|symbol|identifier,name|gene|organism|symbol|identifier,name|gene|organism|symbol|identifier,name|gene|organism|symbol|identifier,name|gene|organism|symbol|identifier,,,,,
+6,gene,identifier,name,dataset/database,GO Term,identifier,gene,symbol,chromosome,gene|name,,,,,,
+7,gene|identifier,symbol,name,gene|identifier,GO Term,taxon id|human,chromosome,gene|name|symbol,links to other dbs,,ensembl id,"""links to other dbs"" as a whole for last three",,,,
+8,,,symbol|name,identifier,GO Term|dataset/database|identifier,h. sapiens,identifier,symbol|name,disease|identifier|dataset/database,identifier|dataset/database,identifier|dataset/database,"Flybase - addressed the file as a whole for ""d. melanogaster"". ""protein"" was matched to columns that weren't highlighted (gene product). Gene_info: ""gene"" and ""organism"" applies to all|dataset/database applies to all of last three. GFF: for all: gene|identifier|h.sapiens|dataset/database|organism",N,N,Y,
+9,,,,,GO Term,human,,,,,gene|identifier,GFF: didn’t match anything directly|but for all matched database|identifier|accession|gene|molecule. Gene_info: human|symbol|model|dataset|gene|accession|identifier. Generic again. GAF: gene|accession|identifier|database|models symbol|experiment|transcript,Y,Y,N,
+10,gene|identifier,,,,GO Term,,,,,,,GAF: identifier|accession|associated with non-highlighted term gene product|molecular weight associated with protein,N,N,Y,
+11,gene|identifier,symbol|identifier,gene|name,identifier,GO Term,identifier|taxon id,gene|identifier,symbol,identifier,,ensembl|identifier,,,,,
+12,identifier|gene|name,identifier|gene|accession|name,gene|symbol|name|identifier,accession|name|symbol|identifier,GO Term,organism|human,chromosome,symbol|name|identifier|accession,accession,,,,N,N,N,
+13,accession|identifier,symbol,identifier|gene|symbol,organism|d. melanogaster|database|accession|gene|symbol,GO Term|accesssion,taxon id|organism|human|symbol,gene|identifier,symbol|gene,chromosome|dataset/database|accession|identifier,chromosome|database|accession|identifier,accession,"dislikes gene identifier being simply ""1"". GFF - whole file got ""organism|homo sapiens| database and accession""",,,,Y
+14,gene|dataset/database|identifier|accession,gene|dataset/database|identifier|accession,symbol|name|gene|dataset/database|identifier|accession,identifier|accession,GO Term|identifier|accession,organism|human,,name|symbol,,,gene|dataset/database|identifier|accession,,,,,
+15,gene|identifier,gene|identifier,symbol|gene|name,identifier,GO Term,,,,,,gene|identifier,,,,,
+16,gene,go: protein binding,Q9H4C3_HUMAN,protein,GO Term,,chromosome,BRCA1_HUMAN|gene,,,protein,,,,,
+17,identifier,name,gene,GO Term,go: protein binding,organism,identifier,symbol,dataset/database,chromosome,accession,,,,,
+18,gene|identifier,location,name,,Chromosome location,,identifier,symbol,,,chromosome,,Y,,Y,
+19,gene|h. sapiens,,name,d. melanogaster|dataset/database|identifier,,,,,,,homo sapiens|identifier|dataset/database|protein|uniprot,,,,,
+20,gene|identifier,identifier,symbol,gene|symbol|identifier|protein,GO Term,h. sapiens,gene|protein,symbol|name,,,gene|identifier|protein|human,"GFF: they made it clear that identifier, human, symbol, name were spread across many of the terms",,Y,,Y
+21,gene,identifier,name,identifier,GO Term,,,,identifier,,transcript,,,Y,,
+22,gene|identifier,dataset/database|h. sapiens,symbol|name,identifier|d. melanogaster|dataset/database,pathway|GO Term|go: protein binding,,identifier,symbol|h. sapiens|name|gene,dataset/database|identifier,,,,,,,Y
