@@ -1,0 +1,23 @@
+﻿,term_selected,used_custom_terms,bio_or_info
+1,homologue,,bio
+2,"accessions, identifier, DOI, PUBMED ID.",,info
+3,"disease, flymine, ensembl, uniprot",Y,both
+4,gene,,unclear
+5,"identifier, dataset, database, publication",,info
+6,"gene, identifier",,both
+7,"gene, protein, chromosome, organism",,bio
+8,gene,,bio
+9,disease,,money
+10,"gene, identifier",,info
+11,protein,,bio
+12,"organism, accession",,info
+13,publication,,info
+14,identifier,,info
+15,publication,,info
+16,pathway,,circuits
+17,publication,,info
+18,database,,info
+19,d. melanogaster,,bio
+20,gene,,info
+21,"gene, name",,info
+22,database,,info
