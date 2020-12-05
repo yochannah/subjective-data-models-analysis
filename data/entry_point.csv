@@ -1,23 +1,23 @@
-﻿,term_selected,used_custom_terms,bio_or_info
-1,homologue,,bio
-2,"accessions, identifier, DOI, PUBMED ID.",,info
-3,"disease, flymine, ensembl, uniprot",Y,both
-4,gene,,unclear
-5,"identifier, dataset, database, publication",,info
-6,"gene, identifier",,both
-7,"gene, protein, chromosome, organism",,bio
-8,gene,,bio
-9,disease,,money
-10,"gene, identifier",,info
-11,protein,,bio
-12,"organism, accession",,info
-13,publication,,info
-14,identifier,,info
-15,publication,,info
-16,pathway,,circuits
-17,publication,,info
-18,database,,info
-19,d. melanogaster,,bio
-20,gene,,info
-21,"gene, name",,info
-22,database,,info
+﻿participant_id,term_selected,used_custom_terms,bio_or_info
+Participant 01,homologue,,bio
+Participant 02,accession|identifier|DOI|pubmed ID,,info
+Participant 03,disease|flymine|ensembl|uniprot,Y,both
+Participant 04,gene,,unclear
+Participant 05,identifier|dataset|database|publication,,info
+Participant 06,gene|identifier,,both
+Participant 07,gene|protein|chromosome|organism,,bio
+Participant 08,gene,,bio
+Participant 09,disease,,money
+Participant 10,gene|identifier,,info
+Participant 11,protein,,bio
+Participant 12,organism|accession,,info
+Participant 13,publication,,info
+Participant 14,identifier,,info
+Participant 15,publication,,info
+Participant 16,pathway,,circuits
+Participant 17,publication,,info
+Participant 18,database,,info
+Participant 19,d. melanogaster,,bio
+Participant 20,gene,,info
+Participant 21,gene|name,,info
+Participant 22,database,,info
